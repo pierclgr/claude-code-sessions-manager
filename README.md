@@ -25,7 +25,7 @@ Built with **Python 3.8+** using only the standard library (zero third-party dep
 
 ```bash
 # Clone the repository
-git clone https://github.com/pierclgr/claude-code-session-manager.git
+git clone https://github.com/pierclgr/claude-code-sessions-manager.git
 cd claude-code-sessions-manager
 
 # Make the entry point executable
