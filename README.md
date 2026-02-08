@@ -151,3 +151,6 @@ claude-code-sessions-manager/
 2. **Detail enrichment** -- When a session is highlighted in the TUI, its per-session JSONL file (`~/.claude/projects/<slug>/<id>.jsonl`) is parsed to extract todos and additional command history.
 3. **Session resumption** -- Changes to the session's project directory and calls `claude --resume <SESSION_ID>` via `os.execvp`.
 4. **Session deletion** -- Atomically rewrites `history.jsonl` (write to temp file, then rename) and recursively removes all files/directories under `~/.claude/` matching the session ID.
+
+## Disclaimer
+This project is not affiliated with Claude Code or with Anthropic neither built by their teams.
