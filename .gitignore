@@ -1,0 +1,17 @@
+# Coding Agent stuff
+CLAUDE.md
+AGENTS.md
+.claude/
+
+# documentation for agents
+docs/
+SPECS.md
+
+# macOS stuff
+.DS_Store
+
+# JetBrains
+.idea/
+
+# Python
+__pycache__/
